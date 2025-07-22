@@ -8,7 +8,7 @@ Radio Range Finding PCB for use in triangulating and recovering a rocket after l
 
 ## Motivation:
  
-  Previous recovery efforts using GPS faced limitations; GPS modules can lose fix under high acceleration or altitude (due to ITAR/COCOM restrictions)
+  Previous recovery efforts using GPS faced limitations; GPS modules can lose fix under high acceleration or altitude (due to COCOM restrictions)
   
   Rockets often land out of visual or audible range, making recovery difficult
   
