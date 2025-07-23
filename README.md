@@ -3,7 +3,7 @@ Radio Range Finding PCB for use in triangulating and recovering a rocket after l
 
 ## Summary: 
   
-  This project involves designing a custom hardware system for tracking and recovering high-powered rockets using LoRa-based time-of-flight ranging with the SX1280 transceiver. The system consists of one onboard radio node and two or more ground-based receivers, enabling  precise distance measurements without relying on GPS.
+  This project involves designing a custom hardware system for tracking and recovering high-powered rockets using LoRa-based radio ranging with the SX1280 transceiver. The system consists of one onboard radio node and two or more ground-based receivers, enabling  precise distance measurements without relying on GPS.
 
 
 ## Motivation:
